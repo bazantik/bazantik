@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🎓 high-school teacher
+- 🍎 hobbyist iOS developer
+
 <!--
 **bazantik/bazantik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

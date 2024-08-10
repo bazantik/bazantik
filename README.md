@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🎓 high-school teacher
+- 🎓 high school teacher
 - 🍎 hobbyist iOS developer
 
 <!--
